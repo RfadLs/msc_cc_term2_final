@@ -1,4 +1,4 @@
-Week2: (video file embedded in this code)
+Week2: (video file embedded in this code: https://youtu.be/jZhfqo2w0F0)
 The foundation of my simulation lies in the creation and animation of individual snowflakes. Each snowflake is crafted with random size, position, and velocity, lending a sense of natural variability and organic movement to the scene. As the sketch progresses, new snowflakes are continuously spawned at random positions above the canvas, gradually descending towards the ground under the influence of gravity.
 Central to the behaviour of each snowflake is its interaction with physical forces such as gravity and acceleration. The use of vectors for representing velocity and acceleration allows for smooth and fluid motion, ensuring that the snowflakes move realistically within the simulated environment.
 Adding a layer of complexity to the simulation is the introduction of wind forces that subtly alter the trajectory of the falling snowflakes. The Snowing class extends the Snowflake class to incorporate the influence of wind on particle motion.
