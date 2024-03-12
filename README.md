@@ -13,4 +13,3 @@ my project is an exploration of typographic manipulation and dynamic visual effe
 The textToPoints() function converts the characters of the word "Hey" into a series of points, each representing a vertex in a geometric shape. These points are then manipulated and animated in real-time to create dynamic visual effects.
 Noise algorithms, specifically Perlin noise, are employed to introduce organic, flowing motion to the typography. By adding controlled randomness to the position of each point over time, you simulate natural phenomena such as drifting particles or rippling waves.
 The color scheme, set to HSB mode with a vibrant hue. The choice of background color (220, 40, 100) creates a harmonious contrast against the typography, ensuring legibility while also infusing the composition with a sense of warmth and energy.
-![image](https://github.com/RfadLs/msc_cc_term2_final/assets/105151905/89cb9f62-eb77-4089-9213-76bfeff5a66f)
