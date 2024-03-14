@@ -1,4 +1,7 @@
-video file: https://youtu.be/-x3WLKZj0bE
+The weekly readme file is in the weekly folder.
+
+
+Final_Video_File: https://youtu.be/-x3WLKZj0bE
 
 Project Description:
 
