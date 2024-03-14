@@ -1,15 +1,7 @@
-Week2: (video file embedded in this code: https://youtu.be/jZhfqo2w0F0)
-The foundation of my simulation lies in the creation and animation of individual snowflakes. Each snowflake is crafted with random size, position, and velocity, lending a sense of natural variability and organic movement to the scene. As the sketch progresses, new snowflakes are continuously spawned at random positions above the canvas, gradually descending towards the ground under the influence of gravity.
-Central to the behaviour of each snowflake is its interaction with physical forces such as gravity and acceleration. The use of vectors for representing velocity and acceleration allows for smooth and fluid motion, ensuring that the snowflakes move realistically within the simulated environment.
-Adding a layer of complexity to the simulation is the introduction of wind forces that subtly alter the trajectory of the falling snowflakes. The Snowing class extends the Snowflake class to incorporate the influence of wind on particle motion.
-By applying a constant wind vector to the acceleration of each snowflake, simulate the effect of wind blowing from left to right across the canvas. This dynamic interaction between wind and snowflakes creates a sense of movement and directionality within the scene.
-
-Midterm:
-My project is an interactive visual representation that goes not only graphical rendering, but also incorporating the concept of emotions and moods using shapes, colors, and dynamic behaviours. 
-Each graphical element serves as a symbolic representation of a particular mood or emotion. The choice of colors further enhances the emotional impact of the visualization. Warm colors like reds, oranges, and yellows may evoke feelings of energy, passion, and optimism, while cooler tones such as blues and greens might evoke calmness, serenity, or melancholy.
-
-Week7:
-my project is an exploration of typographic manipulation and dynamic visual effects. At the heart of your project lies typography, rendered using a custom font loaded from an external file ("Miga.otf"). 
-The textToPoints() function converts the characters of the word "Hey" into a series of points, each representing a vertex in a geometric shape. These points are then manipulated and animated in real-time to create dynamic visual effects.
-Noise algorithms, specifically Perlin noise, are employed to introduce organic, flowing motion to the typography. By adding controlled randomness to the position of each point over time, you simulate natural phenomena such as drifting particles or rippling waves.
-The color scheme, set to HSB mode with a vibrant hue. The choice of background color (220, 40, 100) creates a harmonious contrast against the typography, ensuring legibility while also infusing the composition with a sense of warmth and energy.
+video file: https://youtu.be/-x3WLKZj0bE
+Project Description:
+I created an art project inspired by how quickly QR codes become obsolete. Did you know that QR codes expire after a while? Well, this project is about capturing that idea on a digital canvas.
+What I made:
+This project aims to show that digital products are not timeless. By making QR-like patterns that change over time, it makes you think about how quickly technology changes. I created a code that draws patterns on the screen that look like QR codes. These patterns have lots of little rectangles, just like QR codes. But here's the thing: every time you click your mouse in the screen, the patterns change. Every time you look at them, they look different. I had to make sure that the patterns looked nice but not cluttered, which wasn't easy. But in the end, each pattern is a unique embodiment of this concept of impossible eternity.
+Challenge:
+Making this project was not easy. I had to find the right balance between making the patterns look casual but organized. Too casual would look messy, but too organized would be boring. Also, I had to make sure the rectangles didn't overlap too much or it would look weird. It was difficult, but ultimately, the purpose of this project was to explore the speed of technological change and get people thinking about it.
